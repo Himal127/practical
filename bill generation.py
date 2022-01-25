@@ -1,0 +1,13 @@
+print("enter no. of pizza")
+a = int(input())
+print("enter no. of puff")
+b = int(input())
+print("enter no. of coldrinks")
+c = int(input())
+total = 100*a + 20*b + 10*c
+print("Bill Details")
+print("No of pizza :",a)
+print("No of puff :",b)
+print("No of coldrinks :",c)
+print("Total Price :",total)
+print("ENJOY THE SHOW!!!")
